@@ -1,0 +1,1184 @@
+﻿Log file open, 01/10/19 12:11:17
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: i_dream_in_color
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.264480
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.089s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  -EpicPortal -epicusername=KoiSA -epicuserid=878595fa52164db8b54eee65aba6ed79 -epiclocale=en-US
+LogInit: Base Directory: E:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.01.10-20.11.17:299][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.01.10-20.11.17:299][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.01.10-20.11.17:299][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Config/Windows/Engine.ini]
+[2019.01.10-20.11.17:299][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.01.10-20.11.17:299][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Config/Windows/Engine.ini]
+[2019.01.10-20.11.17:299][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Config/Windows/Engine.ini]
+[2019.01.10-20.11.17:299][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.01.10-20.11.17:299][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.01.10-20.11.17:299][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.01.10-20.11.17:299][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.01.10-20.11.17:299][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.01.10-20.11.17:299][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.01.10-20.11.17:299][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.01.10-20.11.17:299][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.01.10-20.11.17:299][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.01.10-20.11.17:299][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.01.10-20.11.17:299][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.01.10-20.11.17:299][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.01.10-20.11.17:299][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.01.10-20.11.17:299][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Config/Windows/Engine.ini]
+[2019.01.10-20.11.17:299][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.01.10-20.11.17:299][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.01.10-20.11.17:299][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.01.10-20.11.17:299][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.01.10-20.11.17:299][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.01.10-20.11.17:299][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.01.10-20.11.17:299][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.01.10-20.11.17:299][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.01.10-20.11.17:299][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.01.10-20.11.17:299][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.01.10-20.11.17:299][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.01.10-20.11.17:299][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.01.10-20.11.17:299][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.01.10-20.11.17:299][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.01.10-20.11.17:299][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Config/Windows/Engine.ini]
+[2019.01.10-20.11.17:299][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Config/Windows/Engine.ini]
+[2019.01.10-20.11.17:301][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-20.11.17:301][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.10-20.11.17:301][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.10-20.11.17:301][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.10-20.11.17:302][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.10-20.11.17:302][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.10-20.11.17:302][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.10-20.11.17:336][  0]LogHAL: Display: Platform has ~ 16 GB [17041506304 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.10-20.11.17:336][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.01.10-20.11.17:336][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.10-20.11.17:336][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-20.11.17:336][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.10-20.11.17:336][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.10-20.11.17:336][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-20.11.17:336][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.01.10-20.11.17:336][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-20.11.17:336][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.10-20.11.17:336][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.10-20.11.17:336][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.10-20.11.17:336][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.10-20.11.17:336][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.10-20.11.17:336][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.10-20.11.17:336][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.10-20.11.17:336][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.10-20.11.17:336][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Config/Windows/Scalability.ini]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.10-20.11.17:337][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.01.10-20.11.17:338][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.01.10-20.11.17:338][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Config/Windows/Engine.ini]
+[2019.01.10-20.11.17:338][  0]LogInit: Computer: DESKTOP-11RD2JH
+[2019.01.10-20.11.17:338][  0]LogInit: User: 97randy
+[2019.01.10-20.11.17:338][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.01.10-20.11.17:338][  0]LogInit: High frequency timer resolution =3.914058 MHz
+[2019.01.10-20.11.17:338][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.01.10-20.11.17:338][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.10-20.11.17:338][  0]LogMemory: Process Physical Memory: 103.45 MB used, 103.45 MB peak
+[2019.01.10-20.11.17:338][  0]LogMemory: Process Virtual Memory: 89.67 MB used, 89.67 MB peak
+[2019.01.10-20.11.17:338][  0]LogMemory: Physical Memory: 6548.74 MB used,  9703.30 MB free, 16252.05 MB total
+[2019.01.10-20.11.17:338][  0]LogMemory: Virtual Memory: 4651.04 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.01.10-20.11.17:352][  0]LogInit: Using OS detected language (en-US).
+[2019.01.10-20.11.17:352][  0]LogInit: Using OS detected locale (en-US).
+[2019.01.10-20.11.17:353][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.01.10-20.11.17:673][  0]LogStreaming: Display: Took  0.321s to InitEngineTextLocalization.
+[2019.01.10-20.11.17:673][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.10-20.11.17:703][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.10-20.11.17:703][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.10-20.11.17:851][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.10-20.11.17:851][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.10-20.11.17:916][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2019.01.10-20.11.17:917][  0]LogD3D11RHI:       6061/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.01.10-20.11.17:926][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2019.01.10-20.11.17:926][  0]LogD3D11RHI:       128/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.01.10-20.11.17:927][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.10-20.11.17:927][  0]LogD3D11RHI:       0/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.10-20.11.17:927][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.10-20.11.17:933][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.10-20.11.17:933][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.10-20.11.17:933][  0]LogWindows: EnumDisplayDevices:
+[2019.01.10-20.11.17:933][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.01.10-20.11.17:934][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.01.10-20.11.17:934][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.01.10-20.11.17:934][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2019.01.10-20.11.17:935][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.01.10-20.11.17:935][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.01.10-20.11.17:935][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2019.01.10-20.11.17:935][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.01.10-20.11.17:935][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2019.01.10-20.11.17:935][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2019.01.10-20.11.17:935][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2019.01.10-20.11.17:935][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2019.01.10-20.11.17:962][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.10-20.11.17:972][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.01.10-20.11.18:260][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.10-20.11.18:269][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.10-20.11.18:279][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.10-20.11.18:289][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.10-20.11.18:299][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.10-20.11.18:308][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.10-20.11.18:318][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.10-20.11.18:329][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.10-20.11.18:333][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.10-20.11.18:394][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-20.11.18:394][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-20.11.18:394][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-20.11.18:394][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-20.11.18:394][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-20.11.18:394][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-20.11.18:394][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-20.11.18:394][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-20.11.18:394][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-20.11.18:394][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-20.11.18:394][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-20.11.18:394][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-20.11.18:394][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-20.11.18:394][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-20.11.18:394][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-20.11.18:394][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-20.11.18:394][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-20.11.18:394][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.10-20.11.18:395][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.10-20.11.18:448][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.10-20.11.18:448][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.10-20.11.18:466][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.10-20.11.18:466][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.10-20.11.18:476][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.10-20.11.18:485][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.10-20.11.18:495][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.10-20.11.18:505][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.10-20.11.18:543][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.10-20.11.18:543][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.10-20.11.18:543][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.10-20.11.18:580][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Intermediate/Shaders/WorkingDirectory/5432/).
+[2019.01.10-20.11.18:580][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/97randy/AppData/Local/Temp/UnrealShaderWorkingDir/CB8644C94DDCB2284446ED9D1E99BABD/'.
+[2019.01.10-20.11.18:581][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.10-20.11.18:581][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.10-20.11.18:581][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.10-20.11.19:037][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.10-20.11.19:081][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/97randy/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.10-20.11.19:081][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/97randy/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.01.10-20.11.19:081][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.10-20.11.19:081][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.10-20.11.19:081][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.10-20.11.19:081][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.10-20.11.19:094][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.10-20.11.19:094][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.10-20.11.19:094][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.01.10-20.11.19:106][  0]LogDerivedDataCache: Using Local data cache path C:/Users/97randy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.10-20.11.19:106][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.10-20.11.19:106][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.10-20.11.19:124][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.10-20.11.19:126][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.10-20.11.19:126][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.10-20.11.19:204][  0]LogAssetRegistry: FAssetRegistry took 0.0346 seconds to start up
+[2019.01.10-20.11.19:452][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.10-20.11.19:502][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.10-20.11.19:504][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.10-20.11.19:504][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.10-20.11.19:504][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.10-20.11.19:504][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.10-20.11.19:584][  0]LogNetVersion: i_dream_in_color 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1654297491)
+[2019.01.10-20.11.20:003][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.083075 seconds
+[2019.01.10-20.11.20:010][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.01.10-20.11.20:010][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.01.10-20.11.20:010][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.10-20.11.20:678][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.10-20.11.20:692][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.10-20.11.21:260][  0]SourceControl: Source control is disabled
+[2019.01.10-20.11.21:260][  0]SourceControl: Source control is disabled
+[2019.01.10-20.11.21:261][  0]SourceControl: Source control is disabled
+[2019.01.10-20.11.21:262][  0]SourceControl: Source control is disabled
+[2019.01.10-20.11.21:402][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.10-20.11.21:504][  0]LogOcInput: OculusInput pre-init called
+[2019.01.10-20.11.21:625][  0]LogEngine: Initializing Engine...
+[2019.01.10-20.11.21:625][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.01.10-20.11.21:627][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.10-20.11.21:627][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.10-20.11.21:627][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.10-20.11.21:627][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.10-20.11.21:826][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.10-20.11.21:834][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.10-20.11.21:898][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.10-20.11.21:932][  0]LogInit: FAudioDevice initialized.
+[2019.01.10-20.11.21:932][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.10-20.11.22:001][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/97randy/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.10-20.11.22:009][  0]LogInit: Texture streaming: Enabled
+[2019.01.10-20.11.22:019][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.10-20.11.22:031][  0]LogInit: Transaction tracking system initialized
+[2019.01.10-20.11.22:046][  0]BlueprintLog: New page: Editor Load
+[2019.01.10-20.11.22:095][  0]LocalizationService: Localization service is disabled
+[2019.01.10-20.11.22:452][  0]LogFileCache: Scanning file cache for directory 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Content/' took 0.02s
+[2019.01.10-20.11.22:452][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.10-20.11.22:452][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.10-20.11.22:452][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.10-20.11.22:452][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.10-20.11.22:452][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.10-20.11.22:453][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.10-20.11.22:453][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.10-20.11.22:533][  0]SourceControl: Source control is disabled
+[2019.01.10-20.11.22:533][  0]Cmd: MAP LOAD FILE="D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Content/IDreamInColor/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.10-20.11.22:585][  0]LightingResults: New page: Lighting Build
+[2019.01.10-20.11.22:587][  0]MapCheck: New page: Map Check
+[2019.01.10-20.11.22:587][  0]LightingResults: New page: Lighting Build
+[2019.01.10-20.11.23:377][  0]LogLinker: Warning: Can't find file '/Game/IDreamInColor/Maps/SideScrollerExampleMap_BuiltData'
+[2019.01.10-20.11.23:378][  0]LogLinker: Warning: Can't find file for asset '/Game/IDreamInColor/Maps/SideScrollerExampleMap_BuiltData' while loading D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Content/IDreamInColor/Maps/SideScrollerExampleMap.umap.
+[2019.01.10-20.11.23:378][  0]LoadErrors: Error: /Game/IDreamInColor/Maps/SideScrollerExampleMap : Can't find file for asset. /Game/IDreamInColor/Maps/SideScrollerExampleMap_BuiltData
+[2019.01.10-20.11.23:431][  0]LogLinker: Warning: Can't find file '/Game/IDreamInColor/Maps/SideScrollerExampleMap_BuiltData'
+[2019.01.10-20.11.23:432][  0]LogLinker: Warning: Can't find file for asset '/Game/IDreamInColor/Maps/SideScrollerExampleMap_BuiltData' while loading D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Content/IDreamInColor/Maps/SideScrollerExampleMap.umap.
+[2019.01.10-20.11.23:432][  0]LoadErrors: Error: /Game/IDreamInColor/Maps/SideScrollerExampleMap : Can't find file for asset. /Game/IDreamInColor/Maps/SideScrollerExampleMap_BuiltData
+[2019.01.10-20.11.23:436][  0]LogLinker: Warning: Can't find file '/Game/IDreamInColor/Maps/SideScrollerExampleMap_BuiltData'
+[2019.01.10-20.11.23:436][  0]LogLinker: Warning: Can't find file for asset '/Game/IDreamInColor/Maps/SideScrollerExampleMap_BuiltData' while loading NULL.
+[2019.01.10-20.11.23:436][  0]LogLinker: Warning: Can't find file '/Game/IDreamInColor/Maps/SideScrollerExampleMap_BuiltData'
+[2019.01.10-20.11.23:436][  0]LogLinker: Warning: Can't find file for asset '/Game/IDreamInColor/Maps/SideScrollerExampleMap_BuiltData' while loading NULL.
+[2019.01.10-20.11.23:554][  0]LogLinker: Warning: Can't find file '/Game/IDreamInColor/Maps/SideScrollerExampleMap_BuiltData'
+[2019.01.10-20.11.23:554][  0]LoadErrors: Failed to load /Game/IDreamInColor/Maps/SideScrollerExampleMap_BuiltData.SideScrollerExampleMap_BuiltData Referenced by PersistentLevel
+[2019.01.10-20.11.23:554][  0]LogLinker: Warning: Can't find file for asset '/Game/IDreamInColor/Maps/SideScrollerExampleMap_BuiltData' while loading NULL.
+[2019.01.10-20.11.23:556][  0]LoadErrors: Failed to load /Game/IDreamInColor/Maps/SideScrollerExampleMap_BuiltData.SideScrollerExampleMap_BuiltData Referenced by PersistentLevel
+[2019.01.10-20.11.23:978][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.10-20.11.23:983][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.10-20.11.24:004][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.10-20.11.24:004][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.109ms to complete.
+[2019.01.10-20.11.24:004][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 1.471
+[2019.01.10-20.11.24:186][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-20.11.24:192][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-20.11.24:198][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-20.11.24:203][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-20.11.24:236][  0]LogCollectionManager: Loaded 0 collections in 0.000566 seconds
+[2019.01.10-20.11.24:290][  0]LogFileCache: Scanning file cache for directory 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Collections/' took 0.01s
+[2019.01.10-20.11.24:290][  0]LogFileCache: Scanning file cache for directory 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Content/Developers/97randy/Collections/' took 0.01s
+[2019.01.10-20.11.24:290][  0]LogFileCache: Scanning file cache for directory 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Content/Collections/' took 0.01s
+[2019.01.10-20.11.24:290][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.01.10-20.11.24:301][  0]LogContentBrowser: Native class hierarchy populated in 0.0100 seconds. Added 2651 classes and 620 folders.
+[2019.01.10-20.11.24:306][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.10-20.11.24:376][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-20.11.24:396][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-20.11.24:429][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-20.11.24:486][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-20.11.24:509][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-20.11.24:560][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-20.11.24:580][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-20.11.24:600][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-20.11.24:693][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-20.11.24:710][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-20.11.24:750][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-20.11.24:765][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-20.11.24:781][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-20.11.24:796][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-20.11.24:810][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-20.11.24:850][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-20.11.24:890][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-20.11.24:912][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-20.11.24:929][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-20.11.24:948][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-20.11.25:059][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-20.11.25:076][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-20.11.25:095][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-20.11.25:110][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-20.11.25:155][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-20.11.25:175][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.10-20.11.26:741][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.10-20.11.26:783][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.01.10-20.11.26:916][  0]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.10-20.11.26:918][  0]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.10-20.11.26:938][  0]LogSlate: Took 0.014578 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.10-20.11.27:151][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.01.10-20.11.27:309][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.10-20.11.27:511][  0]LogSlate: Window 'Tutorials' being destroyed
+[2019.01.10-20.11.27:538][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.10-20.11.27:538][  0]LogLoad: (Engine Initialization) Total time: 11.82 seconds
+[2019.01.10-20.11.27:538][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.10-20.11.27:610][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.10-20.11.27:612][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.10-20.11.27:687][  0]LogSlate: Took 0.020937 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.10-20.11.39:843][ 84]LogAssetRegistry: Asset discovery search completed in 20.6610 seconds
+[2019.01.10-20.11.39:844][ 84]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.10-20.11.39:844][ 84]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000040 seconds (updated 0 objects)
+[2019.01.10-20.32.18:749][507]LogSlate: Window 'Message Log' being destroyed
+[2019.01.10-20.32.18:753][507]LogSlate: Window 'Message Log' being destroyed
+[2019.01.10-20.32.20:798][751]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.10-20.32.20:815][753]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.10-20.32.20:827][753]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-20.32.20:827][753]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.10-20.32.20:827][753]PIE: New page: PIE session: SideScrollerExampleMap (Jan 10, 2019, 4:32:20 AM)
+[2019.01.10-20.32.20:845][753]LogPlayLevel: Creating play world package: /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.10-20.32.20:870][753]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024633s)
+[2019.01.10-20.32.20:871][753]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.10-20.32.20:871][753]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2019.01.10-20.32.20:871][753]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.025497s)
+[2019.01.10-20.32.20:897][753]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.10-20.32.20:926][753]LogInit: FAudioDevice initialized.
+[2019.01.10-20.32.20:970][753]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2019.01.10-20.32.20:972][753]LogWorld: Bringing World /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.10-12.32.20
+[2019.01.10-20.32.20:972][753]LogWorld: Bringing up level for play took: 0.001141
+[2019.01.10-20.32.21:020][753]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.01.10-20.32.21:022][753]PIE: Play in editor start time for /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap 0.86
+[2019.01.10-20.32.21:022][753]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-20.32.31:879][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.10-20.36.30:705][333]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.01.10-20.36.35:893][938]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/IDreamInColor/Core/Menu/MainMenuHUD.MainMenuHUD
+[2019.01.10-20.36.36:484][938]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 117 classes and 0 folders.
+[2019.01.10-20.36.45:241][843]LogSlate: Window 'MainMenuHUD*' being destroyed
+[2019.01.10-20.36.45:245][843]LogSlate: Window 'MainMenuHUD*' being destroyed
+[2019.01.10-20.43.32:719][472]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/IDreamInColor/Core/Menu/MainMenuWidget.MainMenuWidget
+[2019.01.10-20.43.33:216][472]LogSlate: Took 0.004498 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.10-20.43.33:237][472]LogSlate: Took 0.020506 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.10-20.44.14:432][ 10]LogSavePackage: Moving 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/MainMenuWidgetCAB1B7E74BBEEA7692D792A868564172.tmp' to 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Content/IDreamInColor/Core/Menu/MainMenuWidget.uasset'
+[2019.01.10-20.44.33:493][632]LogSlate: Took 0.113156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.01.10-20.44.42:496][294]Cmd: TRANSACTION UNDO
+[2019.01.10-20.44.42:496][294]LogEditorTransaction: Undo Move Anchor
+[2019.01.10-20.44.43:051][328]Cmd: TRANSACTION UNDO
+[2019.01.10-20.44.43:051][328]LogEditorTransaction: Undo Move Anchor
+[2019.01.10-20.45.12:069][ 61]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/IDreamInColor/Core/Menu/MainMenuHUD.MainMenuHUD
+[2019.01.10-20.45.16:365][526]LogSlate: Window 'MainMenuHUD*' being destroyed
+[2019.01.10-20.45.16:368][526]LogSlate: Window 'MainMenuHUD*' being destroyed
+[2019.01.10-20.45.25:307][707]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/IDreamInColor/Core/Menu/MainMenuHUD.MainMenuHUD
+[2019.01.10-20.45.27:640][944]LogSlate: Window 'MainMenuHUD*' being destroyed
+[2019.01.10-20.45.27:688][944]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/IDreamInColor/Core/Menu/MainMenuHUD.MainMenuHUD
+[2019.01.10-20.45.35:984][845]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-20.45.35:984][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-20.45.36:017][845]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.10-20.45.36:017][845]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-20.45.36:045][845]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-20.45.36:088][848]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.01.10-20.45.55:590][768]LogSlate: Took 0.022068 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.10-20.45.58:615][117]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.10-20.46.14:448][425]BlueprintLog: New page: Compile MainMenuHUD
+[2019.01.10-20.46.14:938][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IDreamInColor/Core/Menu/MainMenuHUD" FILE="D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Content/IDreamInColor/Core/Menu/MainMenuHUD.uasset" SILENT=true
+[2019.01.10-20.46.14:954][463]LogSavePackage: Moving 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/MainMenuHUDF7072B084C6DFBE8EE0F10BA27862517.tmp' to 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Content/IDreamInColor/Core/Menu/MainMenuHUD.uasset'
+[2019.01.10-20.46.16:056][587]LogSlate: Window 'MainMenuHUD' being destroyed
+[2019.01.10-20.46.16:059][587]LogSlate: Window 'MainMenuHUD' being destroyed
+[2019.01.10-20.46.17:371][736]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/IDreamInColor/Core/Menu/MainMenuWidget.MainMenuWidget
+[2019.01.10-20.46.23:732][137]LogEditorTransaction: Undo Animatable Property Changed
+[2019.01.10-20.46.24:966][221]LogEditorTransaction: Undo Animatable Property Changed
+[2019.01.10-20.46.25:556][257]LogEditorTransaction: Undo Animatable Property Changed
+[2019.01.10-20.47.24:716][259]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.10-20.47.48:098][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ledge6)
+[2019.01.10-20.47.48:843][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.10-20.47.48:901][129]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.10-20.47.48:922][129]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-20.47.48:922][129]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.01.10-20.47.48:926][129]LogPlayLevel: [PlayLevel] Compiling MainMenuWidget before play...
+[2019.01.10-20.47.49:067][129]LogPlayLevel: PlayLevel: Blueprint regeneration took 144 ms (1 blueprints)
+[2019.01.10-20.47.49:067][129]PIE: New page: PIE session: SideScrollerExampleMap (Jan 10, 2019, 4:47:49 AM)
+[2019.01.10-20.47.49:067][129]LogPlayLevel: Creating play world package: /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.10-20.47.49:079][129]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011256s)
+[2019.01.10-20.47.49:079][129]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.10-20.47.49:079][129]LogPlayLevel: PIE: World Init took: (0.000554s)
+[2019.01.10-20.47.49:079][129]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.011949s)
+[2019.01.10-20.47.49:111][129]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.10-20.47.49:142][129]LogInit: FAudioDevice initialized.
+[2019.01.10-20.47.49:170][129]LogLoad: Game class is 'SideScrollerMainMenu_C'
+[2019.01.10-20.47.49:171][129]LogWorld: Bringing World /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.10-12.47.49
+[2019.01.10-20.47.49:171][129]LogWorld: Bringing up level for play took: 0.000764
+[2019.01.10-20.47.49:185][129]PIE: Play in editor start time for /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap 1.023
+[2019.01.10-20.47.49:185][129]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-20.47.51:936][452]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-20.47.51:936][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-20.47.51:971][452]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.10-20.47.51:971][452]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-20.47.51:993][452]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-20.47.52:039][454]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.01.10-20.47.57:299][995]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.10-20.48.12:348][758]LogDirectoryWatcher: A directory notification failed for 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2019.01.10-20.48.12:349][758]LogDirectoryWatcher: A directory notification failed for 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Content/Developers/97randy/Collections/' because it could not be accessed. Aborting watch request...
+[2019.01.10-20.48.12:349][758]LogDirectoryWatcher: A directory notification failed for 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2019.01.10-20.48.32:864][  7]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Users/97randy/Downloads/MenuAssets_UE4/640Normal.png)
+[2019.01.10-20.48.32:867][  7]LogTexture: Display: Building textures: 640Normal (BGRA8, 500X162)
+[2019.01.10-20.48.32:880][  7]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Users/97randy/Downloads/MenuAssets_UE4/720Normal.png)
+[2019.01.10-20.48.32:883][  7]LogTexture: Display: Building textures: 720Normal (BGRA8, 500X162)
+[2019.01.10-20.48.32:895][  7]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Users/97randy/Downloads/MenuAssets_UE4/1080normal.png)
+[2019.01.10-20.48.32:899][  7]LogTexture: Display: Building textures: 1080normal (BGRA8, 500X162)
+[2019.01.10-20.48.33:000][  7]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Users/97randy/Downloads/MenuAssets_UE4/background.png)
+[2019.01.10-20.48.33:026][  7]LogTexture: Display: Building textures: background (AutoDXT, 1280X720)
+[2019.01.10-20.48.33:929][  7]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Users/97randy/Downloads/MenuAssets_UE4/MainMenuNormal.png)
+[2019.01.10-20.48.33:932][  7]LogTexture: Display: Building textures: MainMenuNormal (BGRA8, 500X162)
+[2019.01.10-20.48.33:948][  7]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Users/97randy/Downloads/MenuAssets_UE4/OptionsNormal.png)
+[2019.01.10-20.48.33:951][  7]LogTexture: Display: Building textures: OptionsNormal (BGRA8, 500X162)
+[2019.01.10-20.48.33:970][  7]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Users/97randy/Downloads/MenuAssets_UE4/QuitGameNormal.png)
+[2019.01.10-20.48.33:974][  7]LogTexture: Display: Building textures: QuitGameNormal (BGRA8, 500X162)
+[2019.01.10-20.48.33:989][  7]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Users/97randy/Downloads/MenuAssets_UE4/StartGameNormal.png)
+[2019.01.10-20.48.33:993][  7]LogTexture: Display: Building textures: StartGameNormal (BGRA8, 500X162)
+[2019.01.10-20.49.12:768][311]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.10-20.49.20:427][718]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Users/97randy/Downloads/MenuAssets_UE4/640Normal.png)
+[2019.01.10-20.49.20:430][718]LogTexture: Display: Building textures: 640Normal (BGRA8, 500X162)
+[2019.01.10-20.49.20:438][718]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Users/97randy/Downloads/MenuAssets_UE4/720Normal.png)
+[2019.01.10-20.49.20:441][718]LogTexture: Display: Building textures: 720Normal (BGRA8, 500X162)
+[2019.01.10-20.49.20:451][718]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Users/97randy/Downloads/MenuAssets_UE4/1080normal.png)
+[2019.01.10-20.49.20:454][718]LogTexture: Display: Building textures: 1080normal (BGRA8, 500X162)
+[2019.01.10-20.49.20:466][718]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Users/97randy/Downloads/MenuAssets_UE4/background.png)
+[2019.01.10-20.49.20:495][718]LogTexture: Display: Building textures: background (AutoDXT, 1280X720)
+[2019.01.10-20.49.21:346][718]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Users/97randy/Downloads/MenuAssets_UE4/MainMenuNormal.png)
+[2019.01.10-20.49.21:349][718]LogTexture: Display: Building textures: MainMenuNormal (BGRA8, 500X162)
+[2019.01.10-20.49.21:357][718]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Users/97randy/Downloads/MenuAssets_UE4/OptionsNormal.png)
+[2019.01.10-20.49.21:360][718]LogTexture: Display: Building textures: OptionsNormal (BGRA8, 500X162)
+[2019.01.10-20.49.21:368][718]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Users/97randy/Downloads/MenuAssets_UE4/QuitGameNormal.png)
+[2019.01.10-20.49.21:371][718]LogTexture: Display: Building textures: QuitGameNormal (BGRA8, 500X162)
+[2019.01.10-20.49.21:381][718]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Users/97randy/Downloads/MenuAssets_UE4/StartGameNormal.png)
+[2019.01.10-20.49.21:384][718]LogTexture: Display: Building textures: StartGameNormal (BGRA8, 500X162)
+[2019.01.10-20.49.27:550][455]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (53.526 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.10-20.49.30:451][773]LogSavePackage: Moving 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/SideScrollerExampleMap13EA366545A5858368587FBC47AD2663.tmp' to 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Content/IDreamInColor/Maps/SideScrollerExampleMap.umap'
+[2019.01.10-20.49.38:715][252]LogSlate: Window 'Save Asset As' being destroyed
+[2019.01.10-20.50.39:951][155]LogEditorTransaction: Undo Animatable Property Changed
+[2019.01.10-20.50.40:760][204]LogEditorTransaction: Undo Animatable Property Changed
+[2019.01.10-20.54.15:764][888]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/IDreamInColor/Core/Menu/MenuAssets/StartGameNormal.StartGameNormal
+[2019.01.10-20.54.16:012][888]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.01.10-20.54.31:152][591]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.10-20.55.43:610][657]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.10-20.56.11:864][837]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.10-20.56.12:878][904]LogEditorTransaction: Undo Animatable Property Changed
+[2019.01.10-20.56.29:046][302]LogEditorTransaction: Undo Animatable Property Changed
+[2019.01.10-20.56.31:564][492]LogEditorTransaction: Undo Animatable Property Changed
+[2019.01.10-20.56.31:928][520]LogEditorTransaction: Undo Animatable Property Changed
+[2019.01.10-20.56.32:296][548]LogEditorTransaction: Undo Move Widget
+[2019.01.10-20.56.32:480][556]LogEditorTransaction: Undo Edit Color and Opacity
+[2019.01.10-20.56.33:566][646]LogEditorTransaction: Redo Edit Color and Opacity
+[2019.01.10-21.00.00:378][964]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.10-21.04.17:665][966]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/IDreamInColor/Maps/SideScrollerExampleMap' took 0.034
+[2019.01.10-21.04.17:666][966]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IDreamInColor/Core/GameModes/SideScrollerMainMenu] ([1] browsable assets)...
+[2019.01.10-21.04.17:666][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/IDreamInColor/Core/GameModes/SideScrollerMainMenu]
+[2019.01.10-21.04.17:678][966]LogSavePackage: Moving 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/SideScrollerMainMenu_Auto172FB1EE24AE9A5436A045F978ECD8F39.tmp' to 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Autosaves/Game/IDreamInColor/Core/GameModes/SideScrollerMainMenu_Auto1.uasset'
+[2019.01.10-21.04.17:679][966]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IDreamInColor/Core/Menu/MainMenuWidget] ([1] browsable assets)...
+[2019.01.10-21.04.17:679][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/IDreamInColor/Core/Menu/MainMenuWidget]
+[2019.01.10-21.04.17:702][966]LogSavePackage: Moving 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/MainMenuWidget_Auto150314508416F875E823A9C842421CA1C.tmp' to 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Autosaves/Game/IDreamInColor/Core/Menu/MainMenuWidget_Auto1.uasset'
+[2019.01.10-21.04.17:703][966]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/IDreamInColor/Core/Menu/MenuAssets/640Normal] ([1] browsable assets)...
+[2019.01.10-21.04.17:707][966]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/IDreamInColor/Core/Menu/MenuAssets/640Normal.640Normal]
+[2019.01.10-21.04.17:707][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/IDreamInColor/Core/Menu/MenuAssets/640Normal]
+[2019.01.10-21.04.17:717][966]LogSavePackage: Moving 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/640Normal_Auto17BA33D1E4763B3522CE0458ACC0E7DC1.tmp' to 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Autosaves/Game/IDreamInColor/Core/Menu/MenuAssets/640Normal_Auto1.uasset'
+[2019.01.10-21.04.17:717][966]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/IDreamInColor/Core/Menu/MenuAssets/720Normal] ([1] browsable assets)...
+[2019.01.10-21.04.17:720][966]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/IDreamInColor/Core/Menu/MenuAssets/720Normal.720Normal]
+[2019.01.10-21.04.17:720][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/IDreamInColor/Core/Menu/MenuAssets/720Normal]
+[2019.01.10-21.04.17:729][966]LogSavePackage: Moving 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/720Normal_Auto1F48ED2C44996C10147D62FBC3655EA71.tmp' to 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Autosaves/Game/IDreamInColor/Core/Menu/MenuAssets/720Normal_Auto1.uasset'
+[2019.01.10-21.04.17:729][966]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/IDreamInColor/Core/Menu/MenuAssets/1080normal] ([1] browsable assets)...
+[2019.01.10-21.04.17:732][966]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/IDreamInColor/Core/Menu/MenuAssets/1080normal.1080normal]
+[2019.01.10-21.04.17:732][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/IDreamInColor/Core/Menu/MenuAssets/1080normal]
+[2019.01.10-21.04.17:743][966]LogSavePackage: Moving 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/1080normal_Auto104C0FA2042531352B1393EBE781B2327.tmp' to 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Autosaves/Game/IDreamInColor/Core/Menu/MenuAssets/1080normal_Auto1.uasset'
+[2019.01.10-21.04.17:744][966]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/IDreamInColor/Core/Menu/MenuAssets/background] ([1] browsable assets)...
+[2019.01.10-21.04.17:748][966]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/IDreamInColor/Core/Menu/MenuAssets/background.background]
+[2019.01.10-21.04.17:748][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/IDreamInColor/Core/Menu/MenuAssets/background]
+[2019.01.10-21.04.17:761][966]LogSavePackage: Moving 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/background_Auto113EC8D124E5A8B49BD5E388010A9C574.tmp' to 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Autosaves/Game/IDreamInColor/Core/Menu/MenuAssets/background_Auto1.uasset'
+[2019.01.10-21.04.17:762][966]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/IDreamInColor/Core/Menu/MenuAssets/MainMenuNormal] ([1] browsable assets)...
+[2019.01.10-21.04.17:764][966]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/IDreamInColor/Core/Menu/MenuAssets/MainMenuNormal.MainMenuNormal]
+[2019.01.10-21.04.17:764][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/IDreamInColor/Core/Menu/MenuAssets/MainMenuNormal]
+[2019.01.10-21.04.17:775][966]LogSavePackage: Moving 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/MainMenuNormal_Auto1686FE4F5454C22BCC9B13DB45B75D185.tmp' to 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Autosaves/Game/IDreamInColor/Core/Menu/MenuAssets/MainMenuNormal_Auto1.uasset'
+[2019.01.10-21.04.17:776][966]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/IDreamInColor/Core/Menu/MenuAssets/OptionsNormal] ([1] browsable assets)...
+[2019.01.10-21.04.17:778][966]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/IDreamInColor/Core/Menu/MenuAssets/OptionsNormal.OptionsNormal]
+[2019.01.10-21.04.17:778][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/IDreamInColor/Core/Menu/MenuAssets/OptionsNormal]
+[2019.01.10-21.04.17:788][966]LogSavePackage: Moving 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/OptionsNormal_Auto19DA814E34D2116820AD313AE09FA0916.tmp' to 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Autosaves/Game/IDreamInColor/Core/Menu/MenuAssets/OptionsNormal_Auto1.uasset'
+[2019.01.10-21.04.17:789][966]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/IDreamInColor/Core/Menu/MenuAssets/QuitGameNormal] ([1] browsable assets)...
+[2019.01.10-21.04.17:791][966]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/IDreamInColor/Core/Menu/MenuAssets/QuitGameNormal.QuitGameNormal]
+[2019.01.10-21.04.17:791][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/IDreamInColor/Core/Menu/MenuAssets/QuitGameNormal]
+[2019.01.10-21.04.17:801][966]LogSavePackage: Moving 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/QuitGameNormal_Auto1DA41A3E14B1944B60221678D132F59C3.tmp' to 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Autosaves/Game/IDreamInColor/Core/Menu/MenuAssets/QuitGameNormal_Auto1.uasset'
+[2019.01.10-21.04.17:802][966]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/IDreamInColor/Core/Menu/MenuAssets/StartGameNormal] ([1] browsable assets)...
+[2019.01.10-21.04.17:804][966]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/IDreamInColor/Core/Menu/MenuAssets/StartGameNormal.StartGameNormal]
+[2019.01.10-21.04.17:805][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/IDreamInColor/Core/Menu/MenuAssets/StartGameNormal]
+[2019.01.10-21.04.17:818][966]LogSavePackage: Moving 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/StartGameNormal_Auto17549F104474AC1C5F1A8B38FAEF02254.tmp' to 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Autosaves/Game/IDreamInColor/Core/Menu/MenuAssets/StartGameNormal_Auto1.uasset'
+[2019.01.10-21.04.17:819][966]LogFileHelpers: Auto-saving content packages took 0.154
+[2019.01.10-21.07.18:695][377]LogSlate: Window 'Save Asset As' being destroyed
+[2019.01.10-21.07.28:729][137]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.10-21.07.39:012][904]BlueprintLog: New page: Compile MainMenuWidget
+[2019.01.10-21.07.39:521][936]LogSavePackage: Moving 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/MainMenuWidget021612EA411B20861E18D29DD89091BB.tmp' to 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Content/IDreamInColor/Core/Menu/MainMenuWidget.uasset'
+[2019.01.10-21.07.41:773][161]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.10-21.07.41:788][161]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.07.41:788][161]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.10-21.07.41:788][161]PIE: New page: PIE session: SideScrollerExampleMap (Jan 10, 2019, 5:07:41 AM)
+[2019.01.10-21.07.41:789][161]LogPlayLevel: Creating play world package: /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.10-21.07.41:799][161]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009770s)
+[2019.01.10-21.07.41:799][161]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.10-21.07.41:799][161]LogPlayLevel: PIE: World Init took: (0.000541s)
+[2019.01.10-21.07.41:799][161]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.010432s)
+[2019.01.10-21.07.41:830][161]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.10-21.07.41:858][161]LogInit: FAudioDevice initialized.
+[2019.01.10-21.07.41:889][161]LogLoad: Game class is 'SideScrollerMainMenu_C'
+[2019.01.10-21.07.41:891][161]LogWorld: Bringing World /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.10-13.07.41
+[2019.01.10-21.07.41:891][161]LogWorld: Bringing up level for play took: 0.000742
+[2019.01.10-21.07.41:905][161]PIE: Play in editor start time for /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap -0.257
+[2019.01.10-21.07.41:905][161]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.07.53:857][592]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.07.53:857][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-21.07.53:888][592]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.10-21.07.53:888][592]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.07.53:912][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-21.07.53:962][597]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.01.10-21.08.25:346][888]BlueprintLog: New page: Compile MainMenuWidget
+[2019.01.10-21.08.27:296][ 70]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.10-21.08.27:311][ 70]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.08.27:312][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.10-21.08.27:312][ 70]PIE: New page: PIE session: SideScrollerExampleMap (Jan 10, 2019, 5:08:27 AM)
+[2019.01.10-21.08.27:312][ 70]LogPlayLevel: Creating play world package: /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.10-21.08.27:320][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008527s)
+[2019.01.10-21.08.27:321][ 70]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.10-21.08.27:321][ 70]LogPlayLevel: PIE: World Init took: (0.000551s)
+[2019.01.10-21.08.27:321][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.009207s)
+[2019.01.10-21.08.27:350][ 70]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.10-21.08.27:380][ 70]LogInit: FAudioDevice initialized.
+[2019.01.10-21.08.27:409][ 70]LogLoad: Game class is 'SideScrollerMainMenu_C'
+[2019.01.10-21.08.27:411][ 70]LogWorld: Bringing World /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.10-13.08.27
+[2019.01.10-21.08.27:411][ 70]LogWorld: Bringing up level for play took: 0.000738
+[2019.01.10-21.08.27:424][ 70]PIE: Play in editor start time for /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap -0.737
+[2019.01.10-21.08.27:425][ 70]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.08.48:289][569]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.08.48:289][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-21.08.48:324][569]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.10-21.08.48:325][569]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.08.48:351][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-21.08.48:391][572]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.01.10-21.09.34:620][ 31]LogSlate: Window 'Save Asset As' being destroyed
+[2019.01.10-21.09.46:044][891]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.10-21.09.47:040][963]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.10-21.10.06:274][281]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.10-21.10.25:681][812]BlueprintLog: New page: Compile MainMenuWidget
+[2019.01.10-21.10.27:477][984]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.10-21.10.27:492][984]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.10.27:492][984]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.10-21.10.27:492][984]PIE: New page: PIE session: SideScrollerExampleMap (Jan 10, 2019, 5:10:27 AM)
+[2019.01.10-21.10.27:492][984]LogPlayLevel: Creating play world package: /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.10-21.10.27:500][984]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007786s)
+[2019.01.10-21.10.27:501][984]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.10-21.10.27:501][984]LogPlayLevel: PIE: World Init took: (0.000496s)
+[2019.01.10-21.10.27:501][984]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.008403s)
+[2019.01.10-21.10.27:531][984]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.10-21.10.27:560][984]LogInit: FAudioDevice initialized.
+[2019.01.10-21.10.27:593][984]LogLoad: Game class is 'SideScrollerMainMenu_C'
+[2019.01.10-21.10.27:595][984]LogWorld: Bringing World /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.10-13.10.27
+[2019.01.10-21.10.27:595][984]LogWorld: Bringing up level for play took: 0.000739
+[2019.01.10-21.10.27:608][984]PIE: Play in editor start time for /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap -0.553
+[2019.01.10-21.10.27:609][984]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.10.38:149][ 31]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.10.38:149][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-21.10.38:181][ 31]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.10-21.10.38:182][ 31]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.10.38:206][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-21.10.38:251][ 35]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.01.10-21.10.44:857][474]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.10-21.10.48:354][730]BlueprintLog: New page: Compile MainMenuWidget
+[2019.01.10-21.10.50:076][877]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.10-21.10.50:091][877]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.10.50:091][877]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.10-21.10.50:092][877]PIE: New page: PIE session: SideScrollerExampleMap (Jan 10, 2019, 5:10:50 AM)
+[2019.01.10-21.10.50:092][877]LogPlayLevel: Creating play world package: /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.10-21.10.50:100][877]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007849s)
+[2019.01.10-21.10.50:100][877]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.10-21.10.50:100][877]LogPlayLevel: PIE: World Init took: (0.000499s)
+[2019.01.10-21.10.50:100][877]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.008468s)
+[2019.01.10-21.10.50:130][877]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.10-21.10.50:158][877]LogInit: FAudioDevice initialized.
+[2019.01.10-21.10.50:185][877]LogLoad: Game class is 'SideScrollerMainMenu_C'
+[2019.01.10-21.10.50:187][877]LogWorld: Bringing World /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.10-13.10.50
+[2019.01.10-21.10.50:187][877]LogWorld: Bringing up level for play took: 0.000699
+[2019.01.10-21.10.50:200][877]PIE: Play in editor start time for /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap 0.039
+[2019.01.10-21.10.50:200][877]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.14.04:789][  0]LogSlate: Window 'Save Asset As' being destroyed
+[2019.01.10-21.14.07:294][124]LogSlate: Window 'Save Asset As' being destroyed
+[2019.01.10-21.14.19:263][169]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.14.19:264][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-21.14.19:294][169]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.10-21.14.19:294][169]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.14.19:320][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-21.14.19:373][172]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.01.10-21.14.20:584][261]BlueprintLog: New page: Compile MainMenuWidget
+[2019.01.10-21.14.20:966][281]LogSavePackage: Moving 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/MainMenuWidgetD843017B4A6B33D9183DBBB75B901FD6.tmp' to 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Content/IDreamInColor/Core/Menu/MainMenuWidget.uasset'
+[2019.01.10-21.14.31:307][ 89]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.10-21.14.31:321][ 89]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.14.31:321][ 89]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.10-21.14.31:321][ 89]PIE: New page: PIE session: SideScrollerExampleMap (Jan 10, 2019, 5:14:31 AM)
+[2019.01.10-21.14.31:321][ 89]LogPlayLevel: Creating play world package: /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.10-21.14.31:331][ 89]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009275s)
+[2019.01.10-21.14.31:331][ 89]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.10-21.14.31:331][ 89]LogPlayLevel: PIE: World Init took: (0.000582s)
+[2019.01.10-21.14.31:331][ 89]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.009975s)
+[2019.01.10-21.14.31:364][ 89]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.10-21.14.31:397][ 89]LogInit: FAudioDevice initialized.
+[2019.01.10-21.14.31:429][ 89]LogLoad: Game class is 'SideScrollerMainMenu_C'
+[2019.01.10-21.14.31:431][ 89]LogWorld: Bringing World /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.10-13.14.31
+[2019.01.10-21.14.31:431][ 89]LogWorld: Bringing up level for play took: 0.000743
+[2019.01.10-21.14.31:444][ 89]PIE: Play in editor start time for /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap -0.718
+[2019.01.10-21.14.31:445][ 89]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.15.26:915][199]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.15.26:915][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-21.15.26:948][199]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.10-21.15.26:948][199]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.15.26:973][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-21.15.27:024][202]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.01.10-21.15.27:584][246]BlueprintLog: New page: Compile MainMenuWidget
+[2019.01.10-21.15.27:964][264]LogSavePackage: Moving 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/MainMenuWidget41BEDCF343134E09D7A55480BAD9C8A9.tmp' to 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Content/IDreamInColor/Core/Menu/MainMenuWidget.uasset'
+[2019.01.10-21.16.09:300][643]LogRenderer: Reallocating scene render targets to support 1208x584 Format 10 NumSamples 1 (Frame:2186).
+[2019.01.10-21.16.09:348][644]LogRenderer: Reallocating scene render targets to support 1208x616 Format 10 NumSamples 1 (Frame:2188).
+[2019.01.10-21.16.09:401][645]LogRenderer: Reallocating scene render targets to support 1208x660 Format 10 NumSamples 1 (Frame:2190).
+[2019.01.10-21.16.09:450][646]LogRenderer: Reallocating scene render targets to support 1208x684 Format 10 NumSamples 1 (Frame:2192).
+[2019.01.10-21.16.09:492][647]LogRenderer: Reallocating scene render targets to support 1208x688 Format 10 NumSamples 1 (Frame:2194).
+[2019.01.10-21.16.09:614][658]LogRenderer: Reallocating scene render targets to support 1208x692 Format 10 NumSamples 1 (Frame:2196).
+[2019.01.10-21.16.09:655][659]LogRenderer: Reallocating scene render targets to support 1208x696 Format 10 NumSamples 1 (Frame:2198).
+[2019.01.10-21.16.09:733][661]LogRenderer: Reallocating scene render targets to support 1208x708 Format 10 NumSamples 1 (Frame:2202).
+[2019.01.10-21.16.09:774][662]LogRenderer: Reallocating scene render targets to support 1208x716 Format 10 NumSamples 1 (Frame:2204).
+[2019.01.10-21.16.09:814][663]LogRenderer: Reallocating scene render targets to support 1208x728 Format 10 NumSamples 1 (Frame:2206).
+[2019.01.10-21.16.09:856][664]LogRenderer: Reallocating scene render targets to support 1208x732 Format 10 NumSamples 1 (Frame:2208).
+[2019.01.10-21.16.09:898][665]LogRenderer: Reallocating scene render targets to support 1208x740 Format 10 NumSamples 1 (Frame:2210).
+[2019.01.10-21.16.09:939][666]LogRenderer: Reallocating scene render targets to support 1208x748 Format 10 NumSamples 1 (Frame:2212).
+[2019.01.10-21.16.09:980][667]LogRenderer: Reallocating scene render targets to support 1208x760 Format 10 NumSamples 1 (Frame:2214).
+[2019.01.10-21.16.10:020][668]LogRenderer: Reallocating scene render targets to support 1208x768 Format 10 NumSamples 1 (Frame:2216).
+[2019.01.10-21.16.10:061][669]LogRenderer: Reallocating scene render targets to support 1208x772 Format 10 NumSamples 1 (Frame:2218).
+[2019.01.10-21.16.14:557][110]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.10-21.16.14:573][110]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.16.14:573][110]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.10-21.16.14:573][110]PIE: New page: PIE session: SideScrollerExampleMap (Jan 10, 2019, 5:16:14 AM)
+[2019.01.10-21.16.14:573][110]LogPlayLevel: Creating play world package: /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.10-21.16.14:582][110]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008258s)
+[2019.01.10-21.16.14:582][110]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.10-21.16.14:582][110]LogPlayLevel: PIE: World Init took: (0.000611s)
+[2019.01.10-21.16.14:582][110]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.008987s)
+[2019.01.10-21.16.14:617][110]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.10-21.16.14:649][110]LogInit: FAudioDevice initialized.
+[2019.01.10-21.16.14:678][110]LogLoad: Game class is 'SideScrollerMainMenu_C'
+[2019.01.10-21.16.14:679][110]LogWorld: Bringing World /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.10-13.16.14
+[2019.01.10-21.16.14:679][110]LogWorld: Bringing up level for play took: 0.000707
+[2019.01.10-21.16.14:692][110]PIE: Play in editor start time for /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap 0.53
+[2019.01.10-21.16.14:693][110]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.16.35:434][734]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.16.35:434][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-21.16.35:469][734]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.10-21.16.35:470][734]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.16.35:495][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-21.16.35:535][738]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.01.10-21.29.07:425][102]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.10-21.31.14:252][ 26]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/Users/97randy/Downloads/MenuAssets_UE4/Menu Selection Click.wav)
+[2019.01.10-21.31.14:280][ 26]Error: Currently, only 16 bit WAV files are supported (Menu_Selection_Click).
+[2019.01.10-21.31.21:062][ 26]LogSlate: Window 'Message' being destroyed
+[2019.01.10-21.31.21:065][ 26]LogAssetTools: Warning: Failed to import 'D:/Users/97randy/Downloads/MenuAssets_UE4/Menu Selection Click.wav'. Failed to create asset '/Game/IDreamInColor/Core/Menu/MenuAssets/Menu_Selection_Click'.
+Please see Output Log for details.
+[2019.01.10-21.31.21:197][ 26]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/Users/97randy/Downloads/MenuAssets_UE4/MenuMusic.wav)
+[2019.01.10-21.31.22:949][218]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave MenuMusic...
+[2019.01.10-21.31.23:633][218]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 8418132 while cooking SoundWave /Game/IDreamInColor/Core/Menu/MenuAssets/MenuMusic.MenuMusic.
+[2019.01.10-21.31.24:315][295]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/IDreamInColor/Maps/SideScrollerExampleMap' took 0.020
+[2019.01.10-21.31.24:316][295]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/IDreamInColor/Core/Menu/MenuAssets/MenuMusic] ([1] browsable assets)...
+[2019.01.10-21.31.24:325][295]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/IDreamInColor/Core/Menu/MenuAssets/MenuMusic.MenuMusic]
+[2019.01.10-21.31.24:325][295]OBJ SavePackage: Finished generating thumbnails for package [/Game/IDreamInColor/Core/Menu/MenuAssets/MenuMusic]
+[2019.01.10-21.31.24:357][295]LogSavePackage: Moving 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/MenuMusic_Auto2C6E3AE844FDEABB9E501BCB2A8FA547A.tmp' to 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Autosaves/Game/IDreamInColor/Core/Menu/MenuAssets/MenuMusic_Auto2.uasset'
+[2019.01.10-21.31.24:357][295]LogFileHelpers: Auto-saving content packages took 0.042
+[2019.01.10-21.31.26:431][542]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/IDreamInColor/Core/Menu/MenuAssets/MenuMusic.MenuMusic
+[2019.01.10-21.31.28:218][744]LogSlate: Window 'MenuMusic* - Generic Asset Editor' being destroyed
+[2019.01.10-21.31.28:220][744]LogSlate: Window 'MenuMusic* - Generic Asset Editor' being destroyed
+[2019.01.10-21.31.33:105][ 96]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/Users/97randy/Downloads/MenuAssets_UE4/Menu Selection Click.wav)
+[2019.01.10-21.31.33:105][ 96]Error: Currently, only 16 bit WAV files are supported (Menu_Selection_Click).
+[2019.01.10-21.31.36:782][ 96]LogSlate: Window 'Message' being destroyed
+[2019.01.10-21.31.36:785][ 96]LogAssetTools: Warning: Failed to import 'D:/Users/97randy/Downloads/MenuAssets_UE4/Menu Selection Click.wav'. Failed to create asset '/Game/IDreamInColor/Core/Menu/MenuAssets/Menu_Selection_Click'.
+Please see Output Log for details.
+[2019.01.10-21.32.01:737][381]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/Users/97randy/Downloads/MenuAssets_UE4/menu tick.wav)
+[2019.01.10-21.32.03:424][579]LogAssetEditorManager: Opening Asset editor for SoundWave /Game/IDreamInColor/Core/Menu/MenuAssets/menu_tick.menu_tick
+[2019.01.10-21.32.05:828][851]LogSlate: Window 'menu_tick* - Generic Asset Editor' being destroyed
+[2019.01.10-21.32.05:831][851]LogSlate: Window 'menu_tick* - Generic Asset Editor' being destroyed
+[2019.01.10-21.32.06:842][966]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave menu_tick...
+[2019.01.10-21.32.06:872][966]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 24576 while cooking SoundWave /Game/IDreamInColor/Core/Menu/MenuAssets/menu_tick.menu_tick.
+[2019.01.10-21.32.17:425][113]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/IDreamInColor/Core/Menu/MainMenuWidget.MainMenuWidget
+[2019.01.10-21.32.49:205][830]BlueprintLog: New page: Compile MainMenuWidget
+[2019.01.10-21.32.49:683][848]LogSavePackage: Moving 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/MainMenuWidgetC947D414476208BE545ADA9AB35F331A.tmp' to 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Content/IDreamInColor/Core/Menu/MainMenuWidget.uasset'
+[2019.01.10-21.32.51:348][ 27]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.10-21.32.51:369][ 27]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.32.51:369][ 27]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.10-21.32.51:369][ 27]PIE: New page: PIE session: SideScrollerExampleMap (Jan 10, 2019, 5:32:51 AM)
+[2019.01.10-21.32.51:369][ 27]LogPlayLevel: Creating play world package: /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.10-21.32.51:378][ 27]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008490s)
+[2019.01.10-21.32.51:378][ 27]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.10-21.32.51:378][ 27]LogPlayLevel: PIE: World Init took: (0.000603s)
+[2019.01.10-21.32.51:378][ 27]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.009224s)
+[2019.01.10-21.32.51:410][ 27]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.10-21.32.51:439][ 27]LogInit: FAudioDevice initialized.
+[2019.01.10-21.32.51:467][ 27]LogLoad: Game class is 'SideScrollerMainMenu_C'
+[2019.01.10-21.32.51:470][ 27]LogWorld: Bringing World /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.10-13.32.51
+[2019.01.10-21.32.51:470][ 27]LogWorld: Bringing up level for play took: 0.001441
+[2019.01.10-21.32.51:485][ 27]PIE: Play in editor start time for /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap -0.677
+[2019.01.10-21.32.51:486][ 27]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.32.59:203][892]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.10-21.33.08:685][586]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.33.08:685][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-21.33.08:718][586]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.10-21.33.08:718][586]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.33.08:744][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-21.33.08:792][588]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.01.10-21.33.13:537][860]BlueprintLog: New page: Compile MainMenuWidget
+[2019.01.10-21.33.16:017][ 40]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.10-21.33.16:033][ 40]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.33.16:033][ 40]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.10-21.33.16:033][ 40]PIE: New page: PIE session: SideScrollerExampleMap (Jan 10, 2019, 5:33:16 AM)
+[2019.01.10-21.33.16:033][ 40]LogPlayLevel: Creating play world package: /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.10-21.33.16:042][ 40]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008327s)
+[2019.01.10-21.33.16:042][ 40]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.10-21.33.16:042][ 40]LogPlayLevel: PIE: World Init took: (0.000574s)
+[2019.01.10-21.33.16:042][ 40]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.009033s)
+[2019.01.10-21.33.16:073][ 40]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.10-21.33.16:102][ 40]LogInit: FAudioDevice initialized.
+[2019.01.10-21.33.16:134][ 40]LogLoad: Game class is 'SideScrollerMainMenu_C'
+[2019.01.10-21.33.16:136][ 40]LogWorld: Bringing World /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.10-13.33.16
+[2019.01.10-21.33.16:136][ 40]LogWorld: Bringing up level for play took: 0.000708
+[2019.01.10-21.33.16:150][ 40]PIE: Play in editor start time for /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap -0.012
+[2019.01.10-21.33.16:151][ 40]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.33.39:932][891]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/IDreamInColor/Core/Menu/MainMenuHUD.MainMenuHUD
+[2019.01.10-21.33.42:158][118]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.33.42:158][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-21.33.42:195][118]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.10-21.33.42:196][118]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.33.42:223][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-21.33.42:266][120]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.01.10-21.33.43:085][210]LogRenderer: Reallocating scene render targets to support 1236x772 Format 10 NumSamples 1 (Frame:1).
+[2019.01.10-21.34.52:883][452]Cmd: TRANSACTION UNDO
+[2019.01.10-21.34.52:884][452]LogEditorTransaction: Undo Set Vector Property
+[2019.01.10-21.37.08:003][490]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.10-21.37.08:023][490]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.37.08:023][490]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.01.10-21.37.08:026][490]LogPlayLevel: [PlayLevel] Compiling MainMenuWidget before play...
+[2019.01.10-21.37.08:246][490]LogPlayLevel: PlayLevel: Blueprint regeneration took 223 ms (1 blueprints)
+[2019.01.10-21.37.08:247][490]PIE: New page: PIE session: SideScrollerExampleMap (Jan 10, 2019, 5:37:08 AM)
+[2019.01.10-21.37.08:247][490]LogPlayLevel: Creating play world package: /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.10-21.37.08:256][490]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009207s)
+[2019.01.10-21.37.08:257][490]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.10-21.37.08:257][490]LogPlayLevel: PIE: World Init took: (0.000646s)
+[2019.01.10-21.37.08:257][490]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.009985s)
+[2019.01.10-21.37.08:290][490]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.10-21.37.08:319][490]LogInit: FAudioDevice initialized.
+[2019.01.10-21.37.08:349][490]LogLoad: Game class is 'SideScrollerMainMenu_C'
+[2019.01.10-21.37.08:351][490]LogWorld: Bringing World /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.10-13.37.08
+[2019.01.10-21.37.08:351][490]LogWorld: Bringing up level for play took: 0.000741
+[2019.01.10-21.37.08:364][490]PIE: Play in editor start time for /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap 0.203
+[2019.01.10-21.37.08:365][490]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.37.13:929][147]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.37.13:929][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-21.37.13:959][147]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.10-21.37.13:960][147]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.37.13:987][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-21.37.14:054][149]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.01.10-21.37.15:696][284]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.10-21.37.37:444][194]BlueprintLog: New page: Compile MainMenuWidget
+[2019.01.10-21.37.37:958][223]LogSavePackage: Moving 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/MainMenuWidgetA8B80F1041B31E34C9BF2799428E08CE.tmp' to 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Content/IDreamInColor/Core/Menu/MainMenuWidget.uasset'
+[2019.01.10-21.37.40:536][495]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.10-21.37.40:553][495]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.37.40:553][495]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.10-21.37.40:553][495]PIE: New page: PIE session: SideScrollerExampleMap (Jan 10, 2019, 5:37:40 AM)
+[2019.01.10-21.37.40:553][495]LogPlayLevel: Creating play world package: /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.10-21.37.40:561][495]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007605s)
+[2019.01.10-21.37.40:561][495]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.10-21.37.40:561][495]LogPlayLevel: PIE: World Init took: (0.000565s)
+[2019.01.10-21.37.40:561][495]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.008301s)
+[2019.01.10-21.37.40:593][495]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.10-21.37.40:622][495]LogInit: FAudioDevice initialized.
+[2019.01.10-21.37.40:651][495]LogLoad: Game class is 'SideScrollerMainMenu_C'
+[2019.01.10-21.37.40:653][495]LogWorld: Bringing World /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.10-13.37.40
+[2019.01.10-21.37.40:653][495]LogWorld: Bringing up level for play took: 0.000683
+[2019.01.10-21.37.40:665][495]PIE: Play in editor start time for /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap 0.503
+[2019.01.10-21.37.40:665][495]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.37.43:436][818]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.37.43:436][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-21.37.43:466][818]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.10-21.37.43:467][818]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.37.43:496][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-21.37.43:540][821]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.01.10-21.40.14:412][764]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.10-21.40.18:849][980]LogSlate: Window 'Save Asset As' being destroyed
+[2019.01.10-21.42.17:336][494]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/IDreamInColor/Maps/SideScrollerExampleMap' took 0.033
+[2019.01.10-21.42.17:337][494]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IDreamInColor/Core/Menu/MainMenuWidget] ([1] browsable assets)...
+[2019.01.10-21.42.17:337][494]OBJ SavePackage: Finished generating thumbnails for package [/Game/IDreamInColor/Core/Menu/MainMenuWidget]
+[2019.01.10-21.42.17:361][494]LogSavePackage: Moving 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/MainMenuWidget_Auto3AA3E1EC04AC13A9BB2607ABDC1CAF427.tmp' to 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Autosaves/Game/IDreamInColor/Core/Menu/MainMenuWidget_Auto3.uasset'
+[2019.01.10-21.42.17:361][494]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/IDreamInColor/Core/Menu/MenuAssets/menu_tick] ([1] browsable assets)...
+[2019.01.10-21.42.17:367][494]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/IDreamInColor/Core/Menu/MenuAssets/menu_tick.menu_tick]
+[2019.01.10-21.42.17:367][494]OBJ SavePackage: Finished generating thumbnails for package [/Game/IDreamInColor/Core/Menu/MenuAssets/menu_tick]
+[2019.01.10-21.42.17:376][494]LogSavePackage: Moving 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/menu_tick_Auto376F4466742F31C1BD4A7C5AA4F89EDCE.tmp' to 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Autosaves/Game/IDreamInColor/Core/Menu/MenuAssets/menu_tick_Auto3.uasset'
+[2019.01.10-21.42.17:377][494]LogFileHelpers: Auto-saving content packages took 0.040
+[2019.01.10-21.45.10:912][886]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Users/97randy/Downloads/MenuAssets_UE4/Title.png)
+[2019.01.10-21.45.10:916][886]LogTexture: Display: Building textures: Title (BGRA8, 1091X101)
+[2019.01.10-21.45.17:345][201]LogSlate: Window 'Save Asset As' being destroyed
+[2019.01.10-21.45.20:126][322]LogSlate: Window 'Save Asset As' being destroyed
+[2019.01.10-21.45.22:292][370]LogSlate: Window 'Save Asset As' being destroyed
+[2019.01.10-21.46.06:762][804]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.10-21.46.08:747][897]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Users/97randy/Downloads/MenuAssets_UE4/Title.png)
+[2019.01.10-21.46.08:750][897]LogTexture: Display: Building textures: Title (BGRA8, 651X74)
+[2019.01.10-21.46.20:702][876]LogSlate: Window 'Save Asset As' being destroyed
+[2019.01.10-21.50.22:025][803]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.10-21.50.22:072][803]LogSlate: Window 'MainMenuHUD' being destroyed
+[2019.01.10-21.50.25:081][858]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Users/97randy/Downloads/MenuAssets_UE4/Title.png)
+[2019.01.10-21.50.25:084][858]LogTexture: Display: Building textures: Title (BGRA8, 1109X63)
+[2019.01.10-21.50.31:413][535]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/IDreamInColor/Core/Menu/MainMenuWidget.MainMenuWidget
+[2019.01.10-21.51.06:054][636]BlueprintLog: New page: Compile MainMenuWidget
+[2019.01.10-21.51.06:343][652]LogSavePackage: Moving 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/MainMenuWidgetA40765D5424763EB844EF6AB39E33D65.tmp' to 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Content/IDreamInColor/Core/Menu/MainMenuWidget.uasset'
+[2019.01.10-21.51.08:770][920]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.10-21.51.08:791][920]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.51.08:791][920]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.10-21.51.08:791][920]PIE: New page: PIE session: SideScrollerExampleMap (Jan 10, 2019, 5:51:08 AM)
+[2019.01.10-21.51.08:792][920]LogPlayLevel: Creating play world package: /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.10-21.51.08:802][920]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009449s)
+[2019.01.10-21.51.08:802][920]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.10-21.51.08:803][920]LogPlayLevel: PIE: World Init took: (0.000527s)
+[2019.01.10-21.51.08:803][920]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.010103s)
+[2019.01.10-21.51.08:833][920]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.10-21.51.08:862][920]LogInit: FAudioDevice initialized.
+[2019.01.10-21.51.08:890][920]LogLoad: Game class is 'SideScrollerMainMenu_C'
+[2019.01.10-21.51.08:892][920]LogWorld: Bringing World /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.10-13.51.08
+[2019.01.10-21.51.08:892][920]LogWorld: Bringing up level for play took: 0.000731
+[2019.01.10-21.51.08:905][920]PIE: Play in editor start time for /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap 0.744
+[2019.01.10-21.51.08:906][920]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.51.11:930][281]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.51.11:930][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-21.51.11:960][281]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.10-21.51.11:961][281]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.51.11:982][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-21.51.12:035][285]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.01.10-21.51.12:670][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.10-21.51.12:719][367]LogTemp: Repeating last play command: Selected Viewport
+[2019.01.10-21.51.12:733][367]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.51.12:733][367]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.10-21.51.12:733][367]PIE: New page: PIE session: SideScrollerExampleMap (Jan 10, 2019, 5:51:12 AM)
+[2019.01.10-21.51.12:733][367]LogPlayLevel: Creating play world package: /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap
+[2019.01.10-21.51.12:742][367]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008141s)
+[2019.01.10-21.51.12:742][367]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2019.01.10-21.51.12:742][367]LogPlayLevel: PIE: World Init took: (0.000553s)
+[2019.01.10-21.51.12:742][367]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.008833s)
+[2019.01.10-21.51.12:774][367]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.01.10-21.51.12:803][367]LogInit: FAudioDevice initialized.
+[2019.01.10-21.51.12:836][367]LogLoad: Game class is 'SideScrollerMainMenu_C'
+[2019.01.10-21.51.12:838][367]LogWorld: Bringing World /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 0) at 2019.01.10-13.51.12
+[2019.01.10-21.51.12:838][367]LogWorld: Bringing up level for play took: 0.000700
+[2019.01.10-21.51.12:851][367]PIE: Play in editor start time for /Game/IDreamInColor/Maps/UEDPIE_0_SideScrollerExampleMap 0.69
+[2019.01.10-21.51.12:852][367]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.51.18:382][ 29]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.51.18:382][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-21.51.18:412][ 29]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.10-21.51.18:412][ 29]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/IDreamInColor/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2019.01.10-21.51.18:437][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.10-21.51.18:486][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.01.10-21.52.26:639][434]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/IDreamInColor/Maps/SideScrollerExampleMap' took 0.034
+[2019.01.10-21.52.26:640][434]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/IDreamInColor/Core/Menu/MenuAssets/Title] ([1] browsable assets)...
+[2019.01.10-21.52.26:643][434]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/IDreamInColor/Core/Menu/MenuAssets/Title.Title]
+[2019.01.10-21.52.26:643][434]OBJ SavePackage: Finished generating thumbnails for package [/Game/IDreamInColor/Core/Menu/MenuAssets/Title]
+[2019.01.10-21.52.26:652][434]LogSavePackage: Moving 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Title_Auto43EBA32214BF087ECF15B9CB21C0DA474.tmp' to 'D:/Users/97randy/Desktop/i-dream-in-color/i_dream_in_color/Saved/Autosaves/Game/IDreamInColor/Core/Menu/MenuAssets/Title_Auto4.uasset'
+[2019.01.10-21.52.26:652][434]LogFileHelpers: Auto-saving content packages took 0.012
+[2019.01.10-21.53.18:560][884]LogSlate: Window 'Message' being destroyed
+[2019.01.10-21.53.18:564][884]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Users/97randy/Downloads/MenuAssets_UE4/Title.png)
+[2019.01.10-21.53.20:218][884]LogSlate: Window 'Message' being destroyed
+[2019.01.10-21.53.20:242][884]LogTexture: Display: Building textures: Title (BGRA8, 1065X86)
+[2019.01.10-21.53.23:080][210]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2019.01.10-21.53.32:245][210]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.01.10-21.53.32:245][210]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2019.01.10-21.53.32:245][210]LogWindows: Error: === Critical error: ===
+[2019.01.10-21.53.32:245][210]LogWindows: Error: 
+[2019.01.10-21.53.32:245][210]LogWindows: Error: Fatal error: [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\RenderCore\Private\RenderingThread.cpp] [Line: 826] 
+[2019.01.10-21.53.32:245][210]LogWindows: Error: Rendering thread exception:
+[2019.01.10-21.53.32:245][210]LogWindows: Error: Assertion failed: ObjectWeakPtr.IsValid(bEvenIfPendingKill, bThreadSafe) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateRHIRenderer\Private\SlateUTextureResource.cpp] [Line: 54] 
+[2019.01.10-21.53.32:245][210]LogWindows: Error: Texture Title has become invalid.  This means the resource was garbage collected while slate was using it
+[2019.01.10-21.53.32:245][210]LogWindows: Error: 
+[2019.01.10-21.53.32:245][210]LogWindows: Error: 
+[2019.01.10-21.53.32:245][210]LogWindows: Error: [Callstack] 0x00007ffda4c7a388 KERNELBASE.dll!UnknownFunction []
+[2019.01.10-21.53.32:245][210]LogWindows: Error: [Callstack] 0x00007ffd5583cd1a UE4Editor-Core.dll!UnknownFunction []
+[2019.01.10-21.53.32:245][210]LogWindows: Error: [Callstack] 0x00007ffd5561a967 UE4Editor-Core.dll!UnknownFunction []
+[2019.01.10-21.53.32:245][210]LogWindows: Error: [Callstack] 0x00007ffd55550df7 UE4Editor-Core.dll!UnknownFunction []
+[2019.01.10-21.53.32:245][210]LogWindows: Error: [Callstack] 0x00007ffd3c6d6921 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2019.01.10-21.53.32:245][210]LogWindows: Error: [Callstack] 0x00007ffd3c6e90b3 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2019.01.10-21.53.32:245][210]LogWindows: Error: [Callstack] 0x00007ffd3c6f0200 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2019.01.10-21.53.32:245][210]LogWindows: Error: [Callstack] 0x00007ffd3c6f79ca UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2019.01.10-21.53.32:245][210]LogWindows: Error: [Callstack] 0x00007ffd553e1798 UE4Editor-Core.dll!UnknownFunction []
+[2019.01.10-21.53.32:245][210]LogWindows: Error: [Callstack] 0x00007ffd553e1c56 UE4Editor-Core.dll!UnknownFunction []
+[2019.01.10-21.53.32:245][210]LogWindows: Error: [Callstack] 0x00007ffd81db9af9 UE4Editor-RenderCore.dll!UnknownFunction []
+[2019.01.10-21.53.32:245][210]LogWindows: Error: [Callstack] 0x00007ffd81dbaa74 UE4Editor-RenderCore.dll!UnknownFunction []
+[2019.01.10-21.53.32:245][210]LogWindows: Error: [Callstack] 0x00007ffd5583c500 UE4Editor-Core.dll!UnknownFunction []
+[2019.01.10-21.53.32:246][210]LogWindows: Error: [Callstack] 0x00007ffd5582cac1 UE4Editor-Core.dll!UnknownFunction []
+[2019.01.10-21.53.32:246][210]LogWindows: Error: [Callstack] 0x00007ffda82f3034 KERNEL32.DLL!UnknownFunction []
+[2019.01.10-21.53.32:246][210]LogWindows: Error: [Callstack] 0x00007ffda86f3691 ntdll.dll!UnknownFunction []
+[2019.01.10-21.53.32:246][210]LogWindows: Error: 
+[2019.01.10-21.53.32:246][210]LogWindows: Error: 
+[2019.01.10-21.53.32:246][210]LogWindows: Error: 
+[2019.01.10-21.53.32:246][210]LogWindows: Error: 
+[2019.01.10-21.53.32:275][210]LogExit: Executing StaticShutdownAfterError
+[2019.01.10-21.53.32:286][210]LogWindows: FPlatformMisc::RequestExit(1)
+[2019.01.10-21.53.32:301][210]Log file closed, 01/10/19 13:53:32
