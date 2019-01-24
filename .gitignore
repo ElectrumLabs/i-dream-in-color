@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+i_dream_in_color/Saved/StagedBuilds/WindowsNoEditor/i_dream_in_color/Content/IDreamInColor/Core/Menu/MainMenuHUD.uasset
+i_dream_in_color/Saved/StagedBuilds/WindowsNoEditor/i_dream_in_color/Content/IDreamInColor/Core/Menu/MainMenuHUD.uasset
+i_dream_in_color/Saved/StagedBuilds/WindowsNoEditor/i_dream_in_color/Content/IDreamInColor/Core/Menu/MainMenuHUD.uasset
+*.log
+*.log
+i_dream_in_color/Content/IDreamInColor/Core/Menu/MainMenuHUD.uasset
