@@ -80,6 +80,6 @@ i_dream_in_color/Saved/StagedBuilds/WindowsNoEditor/i_dream_in_color/Content/IDr
 i_dream_in_color/Content/IDreamInColor/Core/Menu/MainMenuHUD.uasset
 
 # Local settings
-i_dream_in_color\Intermediate\CachedAssetRegistry.bin
-i_dream_in_color\Saved\AutoScreenshot.png
-i_dream_in_color\Saved\Config\Windows\EditorPerProjectUserSettings.ini
+i_dream_in_color/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+i_dream_in_color/Intermediate/CachedAssetRegistry.bin
+i_dream_in_color/Saved/AutoScreenshot.png
