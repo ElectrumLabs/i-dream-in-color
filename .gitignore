@@ -75,3 +75,7 @@ DerivedDataCache/*
 *.log
 *.log
 i_dream_in_color/Content/IDreamInColor/Core/Menu/MainMenuHUD.uasset
+
+i_dream_in_color/Intermediate/
+
+i_dream_in_color/Saved/
