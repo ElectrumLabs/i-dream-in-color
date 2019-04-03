@@ -79,3 +79,9 @@ i_dream_in_color/Content/IDreamInColor/Core/Menu/MainMenuHUD.uasset
 i_dream_in_color/Intermediate/
 
 i_dream_in_color/Saved/
+
+i_dream_in_color/Content/IDreamInColor/Core/Obstacles/BP_StepDisappearer\.uasset
+
+i_dream_in_color/Content/IDreamInColor/Maps/SideScrollerExampleMap\.umap
+
+i_dream_in_color/Content/IDreamInColor/Core/Obstacles/MinorObstacles/BP_Spinner\.uasset
